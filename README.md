@@ -31,7 +31,7 @@ The project is organized into several directories, each with its own set of Terr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your/repo.git
+   git clone https://github.com/aman4433/eks-cluster.git
    ```
 
 2. Change into the project directory:
